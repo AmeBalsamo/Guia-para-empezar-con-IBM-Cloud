@@ -3,6 +3,8 @@ En este documento encontrarás los recursos básicos para comerzar a utilizar IB
 
 -------------------------
 IBM Developer
+
+
 developer.ibm.com/
 
 En este sitio web encontrarán todo tipo de material sobre la aplicación de distintas tecnologías en diversas industrias, como por ejemplo, conocer las conductas de los compradores usando Machine Learning.
