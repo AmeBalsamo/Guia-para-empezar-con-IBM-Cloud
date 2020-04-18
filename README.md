@@ -5,7 +5,7 @@ En este documento encontrarás los links a los recursos básicos para comerzar a
 IBM Developer
 
 
-https://developer.ibm.com/
+    https://developer.ibm.com/
 
 En este sitio web encontrarán todo tipo de material sobre la aplicación de distintas tecnologías en diversas industrias, como por ejemplo, conocer las conductas de los compradores usando Machine Learning.
 Van a poder encontrar capacitaciones, podcasts, y "Code Patters" que son Githubs con el paso a paso para desplegar un proyecto.
@@ -15,7 +15,7 @@ Van a poder encontrar capacitaciones, podcasts, y "Code Patters" que son Githubs
 
 IBM Cloud
 
-https://cloud.ibm.com/
+    https://cloud.ibm.com/
 
 La nube de IBM nos ofrece una plataforma para desarrollar nuestros proyectos con runtimes, bases de datos y APIs de Watson, que es el nombre que le damos a la inteligencia artificial de IBM. Entre estas APIs pueden encontrar distintos usos de esta IA como por ejemplo:
 
