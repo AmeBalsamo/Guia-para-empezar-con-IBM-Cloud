@@ -19,18 +19,20 @@ https://cloud.ibm.com/
 
 La nube de IBM nos ofrece una plataforma para desarrollar nuestros proyectos con runtimes, bases de datos y APIs de Watson, que es el nombre que le damos a la inteligencia artificial de IBM. Entre estas APIs pueden encontrar distintos usos de esta IA como por ejemplo:
 
--Reconocimiento de imágenes (Visual Recognition)
+-----*Reconocimiento de imágenes (Visual Recognition)
 
 Link a demo: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
 
--Interpretación de lenguaje natural (Natural Language Understanding)
+-----*Interpretación de lenguaje natural (Natural Language Understanding)
+
 Link a demo:https://natural-language-understanding-demo.ng.bluemix.net/
 
--Creación de chatbots (Watson Assistant)
+-----*Creación de chatbots (Watson Assistant)
 
 Link a demo: https://watson-assistant-demo.ng.bluemix.net/
 
--Explotación de datos (Watson Studio). 
+-----*Explotación de datos (Watson Studio). 
+
 Link a demo: https://www.ibm.com/demos/collection/IBM-Watson-Studio/
 
 
