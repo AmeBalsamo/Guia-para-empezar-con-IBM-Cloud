@@ -1,5 +1,5 @@
 # Guia-para-empesar-con-IBM-Cloud
-En este documento encontrarás los recursos básicos para comerzar a utilizar IBM Cloud
+En este documento encontrarás los links a los recursos básicos para comerzar a utilizar IBM Cloud
 
 -------------------------
 IBM Developer
