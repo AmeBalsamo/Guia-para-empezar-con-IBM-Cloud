@@ -23,7 +23,7 @@ La nube de IBM nos ofrece una plataforma para desarrollar nuestros proyectos con
 
 Link a demo: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
 
------*Interpretación de lenguaje natural (Natural Language Understanding)
+-----*Interpretación de lenguaje natural (Natural Language Understanding)*
 
 Link a demo:https://natural-language-understanding-demo.ng.bluemix.net/
 
