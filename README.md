@@ -1,4 +1,4 @@
-# Guia-para-empesar-con-IBM-Cloud
+# Guia-para-empezar-con-IBM-Cloud
 En este documento encontrarás los links a los recursos básicos para comerzar a utilizar IBM Cloud
 
 -------------------------
